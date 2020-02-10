@@ -42,7 +42,7 @@ javac Hello.java
 ```
 
 
-### Exectute Program 
+### Execute Program 
 
 ```
 java Hello
